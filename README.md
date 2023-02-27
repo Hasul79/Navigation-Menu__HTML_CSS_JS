@@ -4,5 +4,5 @@
 https://hasul79.github.io/Navigation-Menu__HTML_CSS_JS/
 
 
-#Autor: Hasmik Minasyan
+# Autor: Hasmik Minasyan
 
